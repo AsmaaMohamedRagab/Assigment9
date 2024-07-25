@@ -1,0 +1,33 @@
+h1{
+    font-size:80px ;
+    font-weight:700 ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+p{
+    font-size:35px;
+    font-weight:400 ;
+    font-family: 'Times New Roman', Times, serif;
+}
+#quote{
+    font-size: 35px;
+    font-weight: 400;
+}
+#author{
+    font-size: 35px;
+    font-weight: 400;
+}
+
+button{
+    background-color: blue;
+    padding: 30px 90px;
+    margin-top: 20px;
+    font-size: 12px;
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    -ms-transition: all 0.1s;
+    -o-transition: all 0.1s;
+}
+button:hover{
+    background-color: green;
+}
